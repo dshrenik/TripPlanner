@@ -12,6 +12,46 @@
     <file path="/Flickr_Urls.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380496018319" ignored="false" />
     <file path="/timeline.html" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380494848798" ignored="false" />
     <file path="/JSONEncoder.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380490527392" ignored="false" />
+    <file path="/settings.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380752476553" ignored="false" />
+    <file path="/urls.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380753273337" ignored="false" />
+    <file path="/views.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380871944828" ignored="false" />
+    <file path="/HttpUtils.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380669258965" ignored="false" />
+    <file path="/models.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380845257260" ignored="false" />
+    <file path="/Flickr_Urls.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380445088082" ignored="false" />
+    <file path="/startSeleniumTest.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380573733312" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/startSeleniumTest.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380573742919" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/testInternalLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380867942409" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/testSuperLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380868029755" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/dev-urls.txt" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380581726388" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/qa-urls.txt" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380577793480" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/staging-urls.txt" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380577800112" ignored="false" />
+    <file path="/testSuperLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380577819221" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/testPartnerLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380868001364" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/testCustomerLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380867979412" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/testCompanyAdminLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380868050391" ignored="false" />
+    <file path="$USER_HOME$/PycharmProjects/AppdynamicsPortal/com/appdynamics/portal/saucelabs/runScript-staging.sh" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380579545181" ignored="false" />
+    <file path="/testPartnerLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380585943478" ignored="false" />
+    <file path="/testInternalLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380867923105" ignored="false" />
+    <file path="/testCompanyAdminLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380585951470" ignored="false" />
+    <file path="/testCustomerLogin.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380585948801" ignored="false" />
+    <file path="/Dummy.txt" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380742466370" ignored="false" />
+    <file path="$USER_HOME$/portal-alpasso/deployment_hosts/dev.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380658800998" ignored="false" />
+    <file path="$USER_HOME$/portal-alpasso/accounts/sso_authenticate.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380658800998" ignored="false" />
+    <file path="$USER_HOME$/portal-alpasso/settings.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380658800998" ignored="false" />
+    <file path="$USER_HOME$/portal-alpasso/selfservice/selfservice_manager.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380658800998" ignored="false" />
+    <file path="$USER_HOME$/portal-alpasso/templates/selfservice/selfServiceSignup_new.html" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380658800998" ignored="false" />
+    <file path="$USER_HOME$/portal-alpasso/urls.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380860625839" ignored="false" />
+    <file path="/people.html" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380661808183" ignored="false" />
+    <file path="/a.dummy" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380756254619" ignored="false" />
+    <file path="/index.html" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380736751795" ignored="false" />
+    <file path="/timeline.html" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380760680569" ignored="false" />
+    <file path="$USER_HOME$/Downloads/FlickrTimeline-master/Flickr_server/FlickrExtractor/Flickr_Urls.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380735699712" ignored="false" />
+    <file path="$USER_HOME$/Downloads/FlickrTimeline-master/Flickr_server/Flickr/settings.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380739569771" ignored="false" />
+    <file path="$USER_HOME$/Downloads/django-twoscoops-project-develop/project_name/.idea/workspace.xml" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380742420678" ignored="false" />
+    <file path="$USER_HOME$/Downloads/django-twoscoops-project-develop/project_name/.idea/misc.xml" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380740370993" ignored="false" />
+    <file path="$USER_HOME$/Downloads/django-twoscoops-project-develop/project_name/project_name/settings/base.py" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380740548784" ignored="false" />
+    <file path="$USER_HOME$/Downloads/django-twoscoops-project-develop/project_name/templates/base.html" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380740590383" ignored="false" />
+    <file path="/*.regexp" changelist="47c8cf26-8a1b-4b2d-8ab9-a48e4f4587a2" time="1380756653497" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +78,11 @@
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlickrExtractor/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="99" column="7" selection-start="3160" selection-end="3160" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,6 +94,11 @@
               <folding>
                 <element signature="e#33#68#0" expanded="true" />
               </folding>
+      <file leaf-file-name="Flickr_Urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlickrExtractor/Flickr_Urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="120" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,6 +107,10 @@
         <entry file="file:///Library/Python/2.7/site-packages/django/views/decorators/csrf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="76" column="0" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.0">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flickr/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="1" selection-start="2710" selection-end="2710" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,6 +121,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
               <folding />
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flickr/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="39" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.15822785">
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +136,10 @@
         <entry file="file://$PROJECT_DIR$/Flickr/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
+      <file leaf-file-name="Flickr_Urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flickr/Flickr_Urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="123" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,6 +149,10 @@
         <entry file="file://$PROJECT_DIR$/Flickr/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="71" column="73" selection-start="2522" selection-end="2522" vertical-scroll-proportion="-9.307693">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,6 +162,33 @@
         <entry file="file://$PROJECT_DIR$/FlickrExtractor/Flickr_Urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
+      <file leaf-file-name="timeline.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/timeline.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1380762181000" expanded="true" signature="35:1719" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="42:958" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="247:269" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="663:783" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="684:771" placeholder="{...}" />
+                <marker date="1380762181000" expanded="true" signature="847:948" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="965:1711" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="974:1296" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="1005:1284" placeholder="{...}" />
+                <marker date="1380762181000" expanded="true" signature="1039:1278" placeholder="{&quot;url&quot;: &quot;/Users/sjagannath/sandbox/TripPlanner/Flickr_server/static/json/jsonData.json&quot;...}" />
+                <marker date="1380762181000" expanded="true" signature="1180:1272" placeholder="{...}" />
+                <marker date="1380762181000" expanded="true" signature="1390:1586" placeholder="..." />
+                <marker date="1380762181000" expanded="true" signature="1462:1576" placeholder="{&quot;width&quot;: &quot;100%&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flickr/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,6 +198,10 @@
         <entry file="file://$PROJECT_DIR$/templates/timeline.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="44" selection-start="575" selection-end="575" vertical-scroll-proportion="-5.2083335">
+      <file leaf-file-name="tests.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flickr/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,6 +211,10 @@
         <entry file="file:///Library/Python/2.7/site-packages/django/core/handlers/base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="114" column="0" selection-start="4779" selection-end="4779" vertical-scroll-proportion="0.0">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlickrExtractor/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="8" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,6 +239,21 @@
         <option value="$PROJECT_DIR$/templates/timeline.html" />
         <option value="$PROJECT_DIR$/FlickrExtractor/views.py" />
         <option value="$PROJECT_DIR$/FlickrExtractor/Flickr_Urls.py" />
+        <option value="$PROJECT_DIR$/templates/template/index.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="/Library/Python/2.7/site-packages/django/utils/importlib.py" />
+        <option value="$PROJECT_DIR$/Flickr/settings.py" />
+        <option value="$PROJECT_DIR$/Flickr/urls.py" />
+        <option value="$PROJECT_DIR$/Flickr/templatetags/jsonFileParse.py" />
+        <option value="$PROJECT_DIR$/Flickr/templatetags/__init__.py" />
+        <option value="$PROJECT_DIR$/Flickr/templatetags/json_File_Parse.py" />
+        <option value="$PROJECT_DIR$/templates/timeline.html" />
+        <option value="$PROJECT_DIR$/static/json/jsonData.json" />
+        <option value="$PROJECT_DIR$/FlickrExtractor/Flickr_Urls.py" />
+        <option value="$PROJECT_DIR$/Flickr/Flickr_Urls.py" />
+        <option value="$PROJECT_DIR$/Flickr/models.py" />
+        <option value="$PROJECT_DIR$/FlickrExtractor/views.py" />
+        <option value="$PROJECT_DIR$/Flickr/views.py" />
       </list>
     </option>
   </component>
@@ -143,6 +262,29 @@
     <option name="y" value="42" />
     <option name="width" value="1680" />
     <option name="height" value="940" />
+    <option name="x" value="35" />
+    <option name="y" value="22" />
+    <option name="width" value="1405" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DjangoUnresolvedTemplateReferenceInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -170,6 +312,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,7 +327,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Flickr" />
+              <option name="myItemId" value="Flickr_server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,7 +337,99 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -276,7 +511,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Flickr" />
+              <option name="myItemId" value="Flickr_server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -284,9 +519,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flickr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templatetags" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,6 +549,8 @@
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="dir.diff.last.used.directory" value="$PROJECT_DIR$/FlickrExtractor" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/django-twoscoops-project-develop/project_name" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -312,6 +566,17 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/Flickr" />
+      <recent name="$PROJECT_DIR$/Flickr/static" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates/template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Flickr" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/media" />
+      <recent name="$PROJECT_DIR$/template/template" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.Flickr">
@@ -398,6 +663,13 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="false" name="Flickr" type="Python.DjangoServer" factoryName="Django server" singleton="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -441,6 +713,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="241" y="42" width="1680" height="940" extended-state="0" />
+    <frame x="35" y="22" width="1405" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -453,10 +726,16 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296837" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2975089" sideWeight="0.6704981" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44699872" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -531,6 +810,178 @@
           <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
           <line>23</line>
           <option name="timeStamp" value="34" />
+          <line>31</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FlickrExtractor/views.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/models.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/views.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/models.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Flickr/models.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="137" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -572,11 +1023,49 @@
     <entry file="file://$PROJECT_DIR$/FlickrExtractor/JSONEncoder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+      <option name="time" value="138" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/json/timeline_brown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="84" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/json/timeline_gold">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/json/timeline_green">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/json/timeline_queen">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/json/timeline_king">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flickr/templatetags/json_File_Parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flickr/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/site-resources/js/locale/af.js">
+    <entry file="file://$PROJECT_DIR$/Flickr/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -586,27 +1075,47 @@
     <entry file="file://$PROJECT_DIR$/FlickrExtractor/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flickr/urls.py">
+    <entry file="file://$PROJECT_DIR$/templates/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
           <folding />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1380762181000" expanded="true" signature="35:1719" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="42:958" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="247:269" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="663:783" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="684:771" placeholder="{...}" />
+            <marker date="1380762181000" expanded="true" signature="847:948" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="965:1711" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="974:1296" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="1005:1284" placeholder="{...}" />
+            <marker date="1380762181000" expanded="true" signature="1039:1278" placeholder="{&quot;url&quot;: &quot;/Users/sjagannath/sandbox/TripPlanner/Flickr_server/static/json/jsonData.json&quot;...}" />
+            <marker date="1380762181000" expanded="true" signature="1180:1272" placeholder="{...}" />
+            <marker date="1380762181000" expanded="true" signature="1390:1586" placeholder="..." />
+            <marker date="1380762181000" expanded="true" signature="1462:1576" placeholder="{&quot;width&quot;: &quot;100%&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Python/2.7/site-packages/django/views/decorators/csrf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="0" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.0">
+        <state line="3" column="120" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/django/core/handlers/base.py">
+    <entry file="file://$PROJECT_DIR$/Flickr/Flickr_Urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="0" selection-start="4779" selection-end="4779" vertical-scroll-proportion="0.0">
+        <state line="4" column="123" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -635,24 +1144,43 @@
     <entry file="file://$PROJECT_DIR$/templates/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="44" selection-start="575" selection-end="575" vertical-scroll-proportion="-5.2083335">
+    <entry file="file://$PROJECT_DIR$/FlickrExtractor/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="7" selection-start="3160" selection-end="3160" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlickrExtractor/HttpUtils.py">
+    <entry file="file://$PROJECT_DIR$/Flickr/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="952" selection-end="952" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#33#68#0" expanded="true" />
           </folding>
+        <state line="75" column="1" selection-start="2710" selection-end="2710" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlickrExtractor/views.py">
+    <entry file="file://$PROJECT_DIR$/FlickrExtractor/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="102" column="0" selection-start="3166" selection-end="3166" vertical-scroll-proportion="0.48630136">
           <folding>
             <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+        <state line="27" column="8" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flickr/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="39" selection-start="2601" selection-end="2601" vertical-scroll-proportion="0.15822785">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -80,7 +80,7 @@ class RelatedList():
                             self._photoList.append(p)
 
         except Exception as e:
-            logger.debug("Exception occurred in creating json list: Message - ", e.message);
+            logger.debug("Exception occurred in creating json list: Message - ", e);
 
     def getPhotoList(self):
         return self._photoList
