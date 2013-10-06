@@ -52,7 +52,6 @@ USE_TZ = True
 # Example: "/var/www/example.com/media/"
 MEDIA_ROOT = os.path.join(PROJECT_DIR, 'media')
 
-<<<<<<< HEAD
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash.
 # Examples: "http://example.com/media/", "http://media.example.com/"
@@ -63,25 +62,20 @@ MEDIA_URL = ''
 # in apps' "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/var/www/example.com/static/"
 STATIC_ROOT = '/static/site-resources/'
-=======
 MEDIA_URL = '/media/'
 ROOT_PATH = os.path.dirname(__file__)
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
 STATIC_ROOT = ''
->>>>>>> working proto
 
 
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
-<<<<<<< HEAD
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
     '/Users/krishnan_narayan/PycharmProjects/Flickr/static/site-resources/',
-=======
     ('assets','/Users/sjagannath/sandbox/TripPlanner/Flickr_server/static'),
->>>>>>> working proto
 )
 
 # List of finder classes that know how to find static files in

@@ -2,13 +2,10 @@ from django.conf.urls import patterns, include, url
 
 # Uncomment the next two lines to enable the admin:
 from django.contrib import admin
-<<<<<<< HEAD
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
-=======
 from django.conf.urls.static import static
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from Flickr import settings
->>>>>>> working proto
 
 admin.autodiscover()
 
@@ -30,11 +27,8 @@ urlpatterns = patterns('',
     #url(r'^admin/', include(admin.site.urls)),
 )
 
-<<<<<<< HEAD
 urlpatterns += staticfiles_urlpatterns()
-=======
 if settings.DEBUG:
     urlpatterns += patterns('django.contrib.staticfiles.views',
         url(r'^static/(?P<path>.*)$', 'serve'),
     )
->>>>>>> working proto

@@ -57,6 +57,7 @@ class RelatedList():
     _photoListJson = ""
     #_totalResults = ""
     def __init__(self, photoListJsonString):
+        self._photoList=[]
         self.extractPhotos(photoListJsonString)
 
 
